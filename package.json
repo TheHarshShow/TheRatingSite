@@ -1,0 +1,28 @@
+{
+  "name": "theratingsite",
+  "version": "1.0.0",
+  "description": "The main Node.js project by TheHarshShow. Movie/TV show rating website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHarshShow/TheRatingSite.git"
+  },
+  "author": "TheHarshShow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheHarshShow/TheRatingSite/issues"
+  },
+  "homepage": "https://github.com/TheHarshShow/TheRatingSite#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.11",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
